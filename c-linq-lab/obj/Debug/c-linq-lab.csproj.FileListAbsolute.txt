@@ -1,0 +1,7 @@
+C:\Users\Kendall\bootcamp_c_sharp\c-linq-lab\c-linq-lab\obj\Debug\c-linq-lab.csproj.AssemblyReference.cache
+C:\Users\Kendall\bootcamp_c_sharp\c-linq-lab\c-linq-lab\obj\Debug\c-linq-lab.csproj.CoreCompileInputs.cache
+C:\Users\Kendall\bootcamp_c_sharp\c-linq-lab\c-linq-lab\bin\Debug\c-linq-lab.exe.config
+C:\Users\Kendall\bootcamp_c_sharp\c-linq-lab\c-linq-lab\bin\Debug\c-linq-lab.exe
+C:\Users\Kendall\bootcamp_c_sharp\c-linq-lab\c-linq-lab\bin\Debug\c-linq-lab.pdb
+C:\Users\Kendall\bootcamp_c_sharp\c-linq-lab\c-linq-lab\obj\Debug\c-linq-lab.exe
+C:\Users\Kendall\bootcamp_c_sharp\c-linq-lab\c-linq-lab\obj\Debug\c-linq-lab.pdb
